@@ -42,19 +42,18 @@ The dataset contains player statistics for NRB Rookies. There are 1100+ observat
 
 *You should submit a CSV file with a header row and the sample submission can be found below:*
 
-prediction
-
-1
-0
-0
-0
-0
-1
-0
-1
-.
-.
-.
-Etc.
+prediction  
+1  
+0  
+0  
+0  
+0  
+1  
+0  
+1  
+.  
+.  
+.  
+Etc.  
 
 Note that the header name should be ‘prediction’
